@@ -19,6 +19,9 @@ A copy of [CRO55](https://github.com/SWannell/cro55-prompt-test), but for email 
 
 ### Results
 
-- _ttest.py_ to get the average gift results
+- _ttest.py_ to get the average gift results**
 - _income_projections.py_: projecting income out to a one-year estimate, as per the analysis plan.
-- _gift_distibution.py_: looking at the gift value distribution.
+- _gift_distibution.py_: looking at the gift value distribution.***
+
+** [Welch's t-test formula](https://stats.stackexchange.com/a/475345)
+*** Using difference in means, by logic of [this post](https://statisticsbyjim.com/hypothesis-testing/confidence-intervals-compare-means/).
